@@ -1,0 +1,52 @@
+{
+  "data": {
+    "passTemplateInfos": [{
+      "hasToken": false,
+      "merchants": {
+        "address": "Complex 2",
+        "businessLicensesUrl": "www.subway.com",
+        "id": 3,
+        "isAudit": true,
+        "logoUrl": "www.subway.com",
+        "name": "subway",
+        "phone": "5142222222"
+      },
+      "passTemplate": {
+        "backGround": 2,
+        "desc": "sandwich",
+        "end": 1591675200000,
+        "hasToken": true,
+        "id": 3,
+        "limit": 10000,
+        "start": 1589947200000,
+        "summary": "summary: subway",
+        "title": "title: subway-2"
+      }
+    }, {
+      "hasToken": false,
+      "merchants": {
+        "address": "Complex 2",
+        "businessLicensesUrl": "www.subway.com",
+        "id": 3,
+        "isAudit": true,
+        "logoUrl": "www.subway.com",
+        "name": "subway",
+        "phone": "5142222222"
+      },
+      "passTemplate": {
+        "backGround": 2,
+        "desc": "sandwich",
+        "end": 1591675200000,
+        "hasToken": false,
+        "id": 3,
+        "limit": 10000,
+        "start": 1589947200000,
+        "summary": "summary: subway",
+        "title": "title: subway-1"
+      }
+    }],
+    "userId": 509304
+  },
+  "errorCode": 0,
+  "errorMsg": ""
+}
